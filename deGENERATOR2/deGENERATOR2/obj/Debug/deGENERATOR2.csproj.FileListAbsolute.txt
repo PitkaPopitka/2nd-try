@@ -1,0 +1,10 @@
+C:\DevProjects\deGENERATOR2\deGENERATOR2\bin\Debug\deGENERATOR2.exe.config
+C:\DevProjects\deGENERATOR2\deGENERATOR2\bin\Debug\deGENERATOR2.exe
+C:\DevProjects\deGENERATOR2\deGENERATOR2\bin\Debug\deGENERATOR2.pdb
+C:\DevProjects\deGENERATOR2\deGENERATOR2\obj\Debug\deGENERATOR2.csproj.AssemblyReference.cache
+C:\DevProjects\deGENERATOR2\deGENERATOR2\obj\Debug\deGENERATOR2.Form1.resources
+C:\DevProjects\deGENERATOR2\deGENERATOR2\obj\Debug\deGENERATOR2.Properties.Resources.resources
+C:\DevProjects\deGENERATOR2\deGENERATOR2\obj\Debug\deGENERATOR2.csproj.GenerateResource.cache
+C:\DevProjects\deGENERATOR2\deGENERATOR2\obj\Debug\deGENERATOR2.csproj.CoreCompileInputs.cache
+C:\DevProjects\deGENERATOR2\deGENERATOR2\obj\Debug\deGENERATOR2.exe
+C:\DevProjects\deGENERATOR2\deGENERATOR2\obj\Debug\deGENERATOR2.pdb
